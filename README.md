@@ -1,2 +1,2 @@
 # seoapainter
-A web-based painter pages. Accessibility Simplified.
+A web-based painter pages.
