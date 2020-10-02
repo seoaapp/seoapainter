@@ -1,0 +1,23 @@
+{
+  "name": "seoapainter",
+  "version": "0.0.1",
+  "description": "Web based painter program.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naesung/seoapainter.git"
+  },
+  "keywords": [
+    "painter",
+    "web"
+  ],
+  "author": "seoa",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Naesung/seoapainter/issues"
+  },
+  "homepage": "https://github.com/Naesung/seoapainter#readme"
+}
